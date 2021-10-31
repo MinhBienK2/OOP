@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634350487 source:d:\oop\learn haui\baith-4.1\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
