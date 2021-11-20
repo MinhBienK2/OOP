@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636970416 source:d:\oop\learn haui\kt_van\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
